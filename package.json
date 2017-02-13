@@ -1,0 +1,16 @@
+{
+  "name": "locoforthecoco",
+  "version": "1.0.0",
+  "description": "This is the marketing Website of the 'For the Love of Coco' brand.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Rosario",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "jade": "^1.11.0"
+  }
+}
