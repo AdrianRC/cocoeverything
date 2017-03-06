@@ -1,4 +1,4 @@
 # CocoEverything
 The online store for the "Coco Everything" brand.
 
-View it hosted on http://cocoeverything.herokuapp.com/
+View it hosted at http://cocoeverything.herokuapp.com/
